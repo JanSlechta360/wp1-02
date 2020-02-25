@@ -12,7 +12,7 @@
  */
 
 $first_name = "Jakub" ;
-$last_name = "Vávrů" ;
+$last_name = " Vávrů" ;
 $gender = "Muž" ;
 $school = "Základní škola Zásmuky" ;
 $birthdate = "6.1.2004" ;
@@ -29,7 +29,7 @@ $hobbies = "práce s počítači, příroda, tůrování, kreslení" ;
     <title>Document</title>
 </head>
       <body>
-           <h1> <?php= $last_name $name; ?></h1>  
+           <h1><?= $first_name; ?><?= $last_name; ?></h1>  
            <ul>
               <li>Pohlaví: <?= $gender; ?> </li>  
               <li>Základní škola: <?= $school; ?> </li>
