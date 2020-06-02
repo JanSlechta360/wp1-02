@@ -16,7 +16,7 @@ $last_name = " Vávrů" ;
 $gender = "Muž" ;
 $school = "Základní škola Zásmuky" ;
 $birthdate = "6.1.2004" ;
-$email = "jakub. vavru@student.ossp.cz" ;
+$email = "jakub.vavru@student.ossp.cz" ;
 $phone = "+420 776 542 345" ;
 $hobbies = "práce s počítači, příroda, tůrování, kreslení" ;
 ?>
